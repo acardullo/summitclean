@@ -1,2 +1,2 @@
 # summitclean
-Cleaning and Snow Removal, Summit Count
+Cleaning and Snow Removal, Summit County
